@@ -1,0 +1,79 @@
+ 
+.navbar ul {
+    margin: 0px;
+    padding: 0px;
+    margin-left: 20px;
+   
+}
+.navbar ul li{
+    display: inline;
+    margin: 20px 30px;
+    padding: 20px 0px;
+    color: black;
+    font-size: 15px;
+    
+}
+.navbar a :hover{
+color: aqua;
+width: 20px;
+}
+ .buttons{
+    text-align: right;
+    font-size: x-large;
+    margin: 0px 0px 0px 30px;
+}
+.navbar{
+    background-color:white;
+   float: left;
+   width: 100%;
+   text-align:left;
+   padding-bottom: 5px;
+   padding-top: 0px;
+   border-radius: 20px;
+}
+.navbar2 ul li {
+    color: white;
+    list-style: none;
+    width: 100%;
+    display: inline;
+    padding:  12px  10px;
+    font-size: small;
+}
+.navbar2{
+    float: left;
+    
+}
+.navbar2 li:hover{
+color: brown;
+}
+.header{
+    text-align: center;
+    font-size: 30px;
+    padding-left: 350px;
+    padding-top: 80px;
+}
+.main{
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 80px;
+}
+input{
+    border: 3px solid;
+    height: 40px;
+    width: 350px;
+    border-radius: 50px;
+    padding: 0px 10px;
+}
+.header2
+{
+    text-align: center;
+    font-size: 30px;
+    padding-right: 170px;
+    padding-top: 420px;
+}
+.buttons{
+    padding-right: 20px;
+    margin: 0px 20px;
+}
